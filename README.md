@@ -25,7 +25,7 @@
 <!-- social handles -->
 <div align="center"> 
 <!-- youtube -->
-  <a href="https://www.youtube.com/@SkynorthProductions" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@hunzaecovibes" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <!-- twitter -->
   <a href="https://twitter.com/MinhajKarim9" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
   <!-- gmail -->
