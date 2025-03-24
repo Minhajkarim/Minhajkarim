@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *" # Runs every day at midnight UTC
   workflow_dispatch: # Allows manual triggering
 
+permissions:
+  contents: write # Ensures the workflow can push changes
+
 jobs:
   generate-rocket-graph:
     runs-on: ubuntu-latest
@@ -19,7 +22,7 @@ jobs:
           python-version: "3.x"
 
       - name: Install Required Packages
-        run: pip install requests cairosvg
+        run: pip install requests
 
       - name: Generate Rocket Contribution Graph
         run: |
@@ -32,8 +35,10 @@ jobs:
           if response.status_code == 200:
               with open("github-contribution-rocket.svg", "wb") as f:
                   f.write(response.content)
+              print("✅ Rocket Contribution Graph saved successfully!")
           else:
-              print("Failed to fetch Rocket Contribution Graph")
+              print(f"❌ Failed to fetch Rocket Contribution Graph. Status Code: {response.status_code}")
+              exit(1)
           EOF
 
       - name: Commit and Push SVG
