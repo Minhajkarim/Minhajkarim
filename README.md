@@ -50,7 +50,7 @@
 
 <!-- Contribution Graph -->
 ### 🚀 Contribution Graph
-![Minhaj's GitHub Rocket Graph](https://raw.githubusercontent.com/Minhajkarim/output/github-contribution-rocket.png)
+![GitHub Contribution Graph](https://img.shields.io/badge/Contributions-Rocket%20Mode🚀-blue?style=for-the-badge)
 
 ---
 
