@@ -50,7 +50,7 @@
 
 <!-- Contribution Graph -->
 ### 🚀 Contribution Graph
-![Minhaj's GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=Minhajkarim&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)
+![Minhaj's GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=Minhajkarim&bg_color=0d1117&color=00e676&line=ffffff&point=ffffff&area=true&hide_border=true)
 
 ---
 
