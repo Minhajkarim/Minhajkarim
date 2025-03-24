@@ -50,7 +50,7 @@
 
 <!-- Contribution Graph -->
 ### 🚀 Contribution Graph
-![Minhaj's GitHub Rocket Graph](https://raw.githubusercontent.com/Minhajkarim/output/github-contribution-rocket.svg)
+![Minhaj's GitHub Rocket Graph](https://raw.githubusercontent.com/Minhajkarim/output/github-contribution-rocket.png)
 
 ---
 
