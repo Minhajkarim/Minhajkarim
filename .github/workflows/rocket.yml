@@ -29,6 +29,12 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
 
+      - name: Convert SVG to PNG
+        run: |
+          sudo apt update
+          sudo apt install -y inkscape
+          inkscape dist/github-contribution-rocket.svg --export-type=png --export-filename=dist/github-contribution-rocket.png
+
       - name: Upload to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
         with:
