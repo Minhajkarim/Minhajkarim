@@ -50,7 +50,7 @@
 
 <!-- Contribution Graph -->
 ### 🚀 Contribution Graph
-![GitHub Contribution Graph](https://img.shields.io/badge/Contributions-Rocket%20Mode🚀-blue?style=for-the-badge)
+![Minhaj's GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=Minhajkarim&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)
 
 ---
 
