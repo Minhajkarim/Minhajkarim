@@ -49,8 +49,8 @@
 ---
 
 <!-- Contribution Graph -->
-### 📊 Contribution Graph
-![Minhaj's GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=Minhajkarim&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)
+### 🚀 Contribution Graph
+![Minhaj's GitHub Rocket Graph](https://raw.githubusercontent.com/Minhajkarim/output/github-contribution-rocket.svg)
 
 ---
 
