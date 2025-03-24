@@ -1,0 +1,45 @@
+name: Generate Rocket Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight UTC
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  generate-rocket-graph:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Install Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install Required Packages
+        run: pip install requests cairosvg
+
+      - name: Generate Rocket Contribution Graph
+        run: |
+          python - <<EOF
+          import requests
+
+          url = "https://github-contribution-graph.2low.dev/rocket"
+          response = requests.get(url)
+
+          if response.status_code == 200:
+              with open("github-contribution-rocket.svg", "wb") as f:
+                  f.write(response.content)
+          else:
+              print("Failed to fetch Rocket Contribution Graph")
+          EOF
+
+      - name: Commit and Push SVG
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add github-contribution-rocket.svg
+          git commit -m "Updated Rocket Contribution Graph" || echo "No changes to commit"
+          git push
