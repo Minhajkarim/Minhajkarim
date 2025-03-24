@@ -1,90 +1,82 @@
-<!-- profile view count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=Minhajkarim&color=green" alt="Profile Views">
+<!-- Profile View Count -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Minhajkarim&color=blue" alt="Profile Views">
+</p>
 
-<!-- introduction -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👨‍💻;I+am+Minhaj+Karim;MERN+Stack+Developer;Cyber+Security+Enthusiast;Always+Learning...;&center=true&size=30&color=00FF00&width=600">
-  </a>
-</h1>
-
----
-
-<!-- about me -->
-```bash
-> Whoami
-```
-```yaml
-Minhaj Karim:
-  - Title: "Full Stack Developer | Ethical Hacker"
-  - Location: "Gojal, Hunza, Pakistan"
-  - Skills: "MERN Stack, Cyber Security, Automation"
-  - Interests: "AI, Hacking, Open Source, Ethical Hacking"
-  - Currently Working On: "Omni Chat CRM & RaSi Electrical Safety Reports Management"
-  - Contact: "minhajkarim078@gmail.com"
-```
-
----
-
-<!-- social handles -->
-<h2 align="center">🔗 Connect with Me</h2>
+<!-- Introduction -->
+<h1 align="center">Minhaj Karim</h1>
 <p align="center">
-  <a href="https://www.youtube.com/@hunzaecovibes" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://twitter.com/MinhajKarim9" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="mailto:minhajkarim078@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  🚀 Full-Stack Developer | 📱 Mobile App Developer | 🖥️ Desktop App Developer
+</p>
+
+---
+
+<!-- About Me -->
+### 👨‍💻 About Me
+- 💻 Passionate about crafting scalable and efficient applications.
+- 🌍 Based in Pakistan, working with clients worldwide.
+- 🛠️ Expertise in **MERN Stack, React Native, Electron.js, and more**.
+- 📚 Always learning new technologies and best practices.
+- 🎥 Running a YouTube channel: [Hunza EcoVibes](https://www.youtube.com/@hunzaecovibes).
+
+---
+
+<!-- Social Handles -->
+### 🌐 Connect With Me
+<p align="left">
   <a href="https://www.linkedin.com/in/dev-minhaj/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:minhajkarim078@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/MinhajKarim9" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.youtube.com/@hunzaecovibes" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
 ---
 
-<!-- skills -->
-<h2 align="center">⚡ Tech Stack</h2>
+<!-- Skills -->
+### 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,graphql,redux,javascript,typescript,python,django,flutter,java,cpp,git,github,linux,docker,vscode,figma&theme=light" alt="Tech Stack" />
+</p>
+
+---
+
+<!-- Learning -->
+### 📖 Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,solidity,threejs" alt="Currently Learning" />
+</p>
+
+---
+
+<!-- Contribution Graph -->
+### 📊 Contribution Graph
+![Minhaj's GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=Minhajkarim&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)
+
+---
+
+<!-- Stats -->
+### 📈 GitHub Stats
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,django,graphql,bootstrap,tailwind,redux,solidity,bash,docker,figma&theme=dark">
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minhajkarim&theme=dark&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Minhajkarim&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhajkarim&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-<!-- current learning -->
-<h2 align="center">🔍 Currently Learning</h2>
+<!-- Show More Repos -->
+### 📂 Featured Projects
+<p align="left">
+  🚀 [Omni Chat CRM](https://github.com/Minhajkarim/OmniChatCRM) - A powerful CRM built with Electron.js.
+  
+  🏕️ [Tourism Management System](https://github.com/Minhajkarim/TourismManagement) - Manage tourism bookings and activities.
+
+  📝 [AI-Powered Blog](https://github.com/Minhajkarim/Blog-Website) - A Next.js blog with AI-based SEO & keyword suggestions.
+</p>
+
+---
+
+### 🔎 Explore More
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,aws,go,cybersecurity&theme=dark">
-  </a>
+  <a href="https://github.com/Minhajkarim?tab=repositories">📌 View All Repositories</a>
 </p>
-
----
-
-<!-- unique contribution graph -->
-<h2 align="center">🧩 Activity & Contributions</h2>
-<p align="center">
-  <a href="https://github.com/Minhajkarim">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Minhajkarim&theme=matrix" alt="Minhaj's Contribution Graph">
-  </a>
-</p>
-
----
-
-<!-- hacker-themed stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minhajkarim&show_icons=true&theme=radical&hide_border=true">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minhajkarim&theme=radical&hide_border=true">
-</p>
-
----
-
-<!-- fun hacker-style terminal animation -->
-<h2 align="center">🖥️ Terminal Output</h2>
-<p align="center">
-  <img src="https://asciinema.org/a/432237.svg" alt="Hacker Terminal Animation">
-</p>
-
----
-
-<h4 align="center">
-  <a href="https://github.com/Minhajkarim?tab=repositories">🔎 Explore More Projects 🔍</a>
-</h4>
