@@ -59,7 +59,7 @@
 ### 🧊 3D Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Minhajkarim/Minhajkarim/main/profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Minhajkarim/Minhajkarim/main/dist/profile-gitblock.svg" alt="3D Contribution Graph" />
 </p>
 
 ---
