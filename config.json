@@ -1,0 +1,14 @@
+{
+  "top": 1,
+  "skip": 0,
+  "size": [800, 200],
+  "margin": [15, 15],
+  "colors": {
+    "background": "#0d1117",
+    "grid": "#30363d",
+    "snake": "#00e676",
+    "box": ["#161b22", "#30363d", "#0d1117"],
+    "area": ["#0d1117", "#161b22"]
+  },
+  "animation": true
+}
