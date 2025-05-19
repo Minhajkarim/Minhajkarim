@@ -58,8 +58,7 @@
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/Minhajkarim/Minhajkarim/output/github-contribution-grid-snake.svg)
-
+<img src="https://raw.githubusercontent.com/Minhajkarim/Minhajkarim/output/github-contribution-grid-snake.svg" width="100%" />
 ---
 
 ### 📈 GitHub Stats
