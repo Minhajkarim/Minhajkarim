@@ -13,33 +13,21 @@ Building scalable digital experiences with modern web & mobile technologies.
 
 </div>
 
----
-
 # 🚀 About Me
 
-```ts
-const minhaj = {
-    location: "Pakistan",
-    role: "Full-Stack Developer",
-    stack: [
-        "React",
-        "Next.js",
-        "Node.js",
-        "MongoDB",
-        "React Native",
-        "Electron.js"
-    ],
-    currentlyLearning: [
-        "AWS",
-        "Three.js",
-        "System Design",
-        "Cloud Architecture"
-    ],
-    funFact: "I love building products that solve real-world problems."
-};
-```
+<div align="left">
 
----
+👨‍💻 Full-Stack Developer focused on building scalable web & mobile applications
+
+🌍 Based in Pakistan, collaborating with clients worldwide
+
+⚡ Specialized in React, Next.js, Node.js, React Native & Electron.js
+
+📚 Currently exploring cloud infrastructure, system design & 3D web experiences
+
+🎯 Passionate about creating products that solve real-world problems
+
+</div>
 
 # 🛠 Tech Stack
 
