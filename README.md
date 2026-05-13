@@ -91,15 +91,13 @@ Building scalable digital experiences with modern web & mobile technologies.
 
 ---
 
-# 🧊 Contribution Graph
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Minhajkarim/Minhajkarim/main/dist/profile-gitblock.svg" />
+<img src="https://raw.githubusercontent.com/Minhajkarim/Minhajkarim/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 </div>
-
----
 
 # ✨ Featured Projects
 
