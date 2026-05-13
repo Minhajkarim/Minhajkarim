@@ -31,8 +31,8 @@ const minhaj = {
     ],
     currentlyLearning: [
         "AWS",
-        "Machine Learning",
-        "Deep Learning",
+        "Three.js",
+        "System Design",
         "Cloud Architecture"
     ],
     funFact: "I love building products that solve real-world problems."
